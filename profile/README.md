@@ -1,5 +1,7 @@
 # EmotiCare
-![logo-emoticare](https://github.com/EmotiCare/.github/assets/89828723/d4d269ee-885c-4846-9732-466b33f520bd)
+<p align="center">
+  <img src="https://github.com/EmotiCare/.github/assets/89828723/d4d269ee-885c-4846-9732-466b33f520bd" alt="EmotiCare Logo" width="200" height="200">
+</p>
 
 ## Team Profile
 
