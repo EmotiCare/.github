@@ -1,14 +1,17 @@
 # EmotiCare
+![logo-emoticare](https://github.com/EmotiCare/.github/assets/89828723/d4d269ee-885c-4846-9732-466b33f520bd)
 
 ## Team Profile
 
 | ID  | Name         | Universitas | Learning Path      |
 |-----|--------------|-------------|--------------------|
-| 1   | Member One   | Universitas A | Machine Learning  |
-| 2   | Member Two   | Universitas B | Cloud Computing   |
-| 3   | Member Three | Universitas C | Mobile Development|
-| 4   | Member Four  | Universitas D | Machine Learning  |
-| 5   | Member Five  | Universitas E | Cloud Computing   |
+| M200D4KX1652   | Aretha Khansa Maritza   | Universitas Diponegoro | Machine Learning  |
+| M200D4KX1932   | Alizza Afra Afifah   | Universitas Diponegoro | Machine Learning   |
+| M283D4KX3296   | Kinanti Anggraeni | Universitas Negeri Semarang | Machine Learning|
+| C004D4KX0185   | Dhea Arfryza Ananda Prasetyo  | Institut Teknologi Sepuluh Nopember | Cloud Computing |
+| C004D4KX0222   | Adiba Zalfa Camilla  | Institut Teknologi Sepuluh Nopember | Cloud Computing   |
+| A004D4KX3966   | Fina Keiza Arismana  | Institut Teknologi Sepuluh Nopember | Mobile Development  |
+| A012D4KX4322   |Nadhila Mizaya Asriel  | Universitas Telkom | Mobile Development   |
 
 ## Table of Contents
 1. [About EmotiCare](#about-emoticare)
