@@ -27,17 +27,18 @@
 Mental health challenges are increasingly common, yet many people struggle to seek help from psychologists. To address this, we created EmotiCare, a safe and confidential chatbot where users can express their feelings. EmotiCare offers more than passive listening; it provides supportive, pre-programmed responses to foster a comforting environment.
 
 ## Features EmotiCare
-EmotiCare offers several features to address the issue
+EmotiCare offers several features to address mental health issue.
 - **ChatBot:** ChatBot where users can talk openly
 - **Mood Tracker:** To help user monitor and reflect their emotional states
 - **Article:** To help users understand and improve their mental health
 
 ## Details
-### Machine Learning
-(https://github.com/EmotiCare/ML-Repository)
+You can access the detail information of each learning path through the link below:
+#### Machine Learning
+https://github.com/EmotiCare/ML-Repository
 
-### Cloud Computing
+#### Cloud Computing
 (https://github.com/EmotiCare/CC-Repository)
 
-### Mobile Development
+#### Mobile Development
 (https://github.com/EmotiCare/MD-Repository)
