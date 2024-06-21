@@ -34,10 +34,10 @@ EmotiCare offers several features to address the issue
 
 ## Details
 ### Machine Learning
-...
+(https://github.com/EmotiCare/ML-Repository)
 
 ### Cloud Computing
-....
+(https://github.com/EmotiCare/CC-Repository)
 
 ### Mobile Development
-...
+(https://github.com/EmotiCare/MD-Repository)
