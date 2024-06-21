@@ -24,10 +24,13 @@
    - [Mobile Development](#mobile-development)
 
 ## About EmotiCare
-EmotiCare is ...
+Mental health challenges are increasingly common, yet many people struggle to seek help from psychologists. To address this, we created EmotiCare, a safe and confidential chatbot where users can express their feelings. EmotiCare offers more than passive listening; it provides supportive, pre-programmed responses to foster a comforting environment.
 
 ## Features EmotiCare
-- **ChatBot:** ........
+EmotiCare offers several features to address the issue
+- **ChatBot:** ChatBot where users can talk openly
+- **Mood Tracker:** To help user monitor and reflect their emotional states
+- **Article:** To help users understand and improve their mental health
 
 ## Details
 ### Machine Learning
